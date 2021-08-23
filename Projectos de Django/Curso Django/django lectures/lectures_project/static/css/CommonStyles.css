@@ -1,0 +1,23 @@
+*{
+    font-size: 18px;
+    font-weight: bold;
+    color: #2468fa;
+}
+
+body{
+    background-color: #014fff;
+}
+
+.container{
+    padding-top: 20vh;
+    width: 80%;
+    max-width: 600px;
+}
+
+.container .jumbotron h1{
+    font-size: 2em;
+}
+
+.container .jumbotron h2{
+    font-size: 1.2em;
+}
