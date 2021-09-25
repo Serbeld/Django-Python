@@ -1,3 +1,4 @@
+
 # Django
 
 This repository is created to practice with the Django framework following the gitflow rules.
